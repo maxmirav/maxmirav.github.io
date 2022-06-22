@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+View this page by clicking on this [link.](https://maxmirav.github.io/)
 <!--
 **maxmirav/maxmirav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
