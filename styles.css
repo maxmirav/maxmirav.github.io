@@ -1,7 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Roboto:wght@100&family=Special+Elite&display=swap');
 
-* {box-sizing: border-box;}
+* {box-sizing: border-box;
+}
 
 /*HEADER*/
 
@@ -52,6 +53,7 @@
 
 body{
   font-family: 'Courier Prime', monospace;
+
 }
 
 .year{
@@ -78,6 +80,7 @@ section{
   max-width: 800px;
   margin: auto;
   height: 120vh;
+  padding-bottom: 100px;
 }
 
 
@@ -157,4 +160,22 @@ img {
 
 .card-content h2{
   font-size: 16px;
+}
+
+
+
+li {
+  margin-bottom: 4px;
+  list-style: none;
+}
+
+
+
+.skill-items {
+  list-style: revert;
+  margin: 5px;
+}
+
+a {
+  text-decoration: none;
 }
